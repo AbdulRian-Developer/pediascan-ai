@@ -6,4 +6,4 @@ AI-powered pediatric pneumonia screening from chest X-rays using transfer learni
 Under development (Phase: Planning)
 
 ## Disclaimer
-This tool is a screening aid only and does not replace a doctor's diagnosis.
+This tool is a screening aid only and does not replace a doctor's diagnosis
